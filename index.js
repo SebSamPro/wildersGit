@@ -1,7 +1,7 @@
 import chalk from "chalk";
 console.log(
-    chakl.blue("Julien"),
-    chakl.red("Seb"),
+    chalk.blue("Julien"),
+    chalk.red("Seb"),
     chalk.green("Cyril"),
-    chalk.pink("PA"),
+    chalk.yellow("PA"),
 )
